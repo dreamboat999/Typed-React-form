@@ -13,7 +13,7 @@
 
 <p align="center" width="100%">
     <strong>A completely type-checked form builder for React with Typescript</strong>
-</p>
+</p> 
 
 - ✔️ **Type-checked**: Make less errors, even field names are strongly typed.
 - 🤔 **Simple**: A well [documented](https://codestix.github.io/typed-react-form/), intuitive and easy to understand api. 
